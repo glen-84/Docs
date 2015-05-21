@@ -1,7 +1,7 @@
 View Components in MVC 6
 ======================================================
 
-By `Rick Anderson <https://github.com/RickAndMSFT>`_
+By `Rick Anderson <https://github.com/Rick-Anderson>`_
 
 In this article:
 	- `Introducing view components`_

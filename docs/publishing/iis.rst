@@ -1,7 +1,7 @@
 Publishing to IIS
 =============================
 
-By `Rick Anderson <https://github.com/RickAndMSFT>`_
+By `Rick Anderson <https://github.com/Rick-Anderson>`_
 
 In this article:
 	- `Publish from Visual Studio`_
